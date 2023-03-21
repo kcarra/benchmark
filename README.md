@@ -20,4 +20,7 @@ If others find this concept interesting and want to contribute I would be happy 
 
 ### TODO:
 
-- [ ] bootstrap project
+- [x] bootstrap project
+- [ ] initialize benchmark client
+- [ ] add tests for benchmark client
+- [ ] throw error if client is initialized not in the main thread
